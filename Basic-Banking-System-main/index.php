@@ -74,7 +74,7 @@
       <p>Copyright <i class="fa-sharp fa-regular fa-copyright"></i> 2023. <u>By Roshni De</u></p>
         <!-- <p>A Project by <b>Roshni De</b> <br>for The Sparks Foundation </p> -->
        <p> <a href="https://www.linkedin.com/in/roshni-de-732557230"><i class="fa-brands fa-linkedin-in" style="color: #eef3fb;"></i></a>
-       <a href=""><i class="fa-brands fa-github" style="color: #f3f6fb;"></i></a>
+       <a href="https://github.com/roshni-04/Sparks"><i class="fa-brands fa-github" style="color: #f3f6fb;"></i></a>
        </p>
       </footer>
      
